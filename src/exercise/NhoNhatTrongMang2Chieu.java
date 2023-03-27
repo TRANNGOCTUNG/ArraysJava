@@ -1,6 +1,6 @@
 package exercise;
 
-public class NhoNhatTrongMang2Chieuf {
+public class NhoNhatTrongMang2Chieu {
     public static void main(String[] args) {
         int[][] numbers = {
                 {1,2,3,4},
